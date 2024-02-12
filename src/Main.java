@@ -31,9 +31,9 @@ public class Main {
             System.out.println("Выберите действие:");
             System.out.println("Введите -s для просмотра краткой статистики");
             System.out.println("Введите -f, для просмотра полной статистики");
-            System.out.println("Введите -a, для записи в файл");
             System.out.println("Введите -o, чтобы задать результат");
             System.out.println("Введите -p, чтобы задать результат с указанным префиксом");
+            System.out.println("Введите -a, для записи в файл");
             System.out.println("Введите exit для выхода");
 
             if (scanner.hasNextLine()) {
