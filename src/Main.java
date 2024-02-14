@@ -63,10 +63,6 @@ public class Main {
                 }
             } else System.out.println("Некоректный ввод");
         }
-
-        System.out.println(sortByListInt);
-        System.out.println(sortByListFloat);
-        System.out.println(sortByListString);
     }
 
     public static class Utils {
